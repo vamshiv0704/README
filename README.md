@@ -5,7 +5,7 @@
 
 I'm a passionate in learning new technology's. I love trackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning : Sql,Python,Aws,Linux
+- 🌱 Currently learning : Sql,Python,Aws,Linux,Docker,Kubernetes,Git,GitHub,GitLab,Maven,ShellScripting ,BashScriptting , 
 - 🔭 Domain : Devops, Cloud (Aws)
 - 🌍 Languages : Telugu ,English ,Hindi ,Tamil ,Marathi
 - 📫 How to reach me : badb3147@gmail.com
